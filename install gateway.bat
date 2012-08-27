@@ -19,7 +19,7 @@
 	::
 	set starcraft=true
 	set warcraft3=true
-	set diablo2=true
+	set diablo2=false
 	
 	
 :: --  CONFIGURATION END  --
@@ -64,7 +64,7 @@ set starcraft_key=Battle.net Gateways
 
 set warcraft3_title=Warcraft 3
 set warcraft3_path=%HKCU%\Blizzard Entertainment\Warcraft III
-set warcraft3_key=Battle.net gateways
+set warcraft3_key=%starcraft_key%
 
 set diablo2_title=Diablo 2
 set diablo2_path=%starcraft_path%

@@ -2,14 +2,14 @@ Universal Battle.net Gateway Installer
 ============================
 
 This script adds a new PvPGN server in the Windows registry without removing existing servers.
-As a server's owner you can setup the script by once and then distribute it for your players.
+As a server owner you can setup the script by once and then distribute it for your players.
 
 ![](http://habrastorage.org/storage2/e17/808/bf1/e17808bf1f80288d44e2928f326bcc41.png)
 
 
 ## Installation
 
-Setup is very simple - just edit several variables in the bat file with any text editor:
+Setup is very simple - just open the BAT file with any text editor and edit several variables:
 ```
 	:: server connection
 	set title=Your Server Name
